@@ -1,0 +1,376 @@
+Uri: http://fpdownload2.macromedia.com/pub/shockwave/cabs/flash/swflash.cab
+File Name: D:\Webcopy Prj\demo.testfire.net\pub\shockwave\cabs\flash\swflash.cab
+Content Type: application/vnd.ms-cab-compressed
+
+Uri: https://demo.testfire.net/
+File Name: D:\Webcopy Prj\demo.testfire.net\index.htm
+Content Type: text/html
+
+Uri: https://demo.testfire.net/feedback.jsp
+File Name: D:\Webcopy Prj\demo.testfire.net\feedback.jsp.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/high_yield_investments.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\high_yield_investments.htm
+Content Type: text/html
+
+Uri: https://demo.testfire.net/images/adobe.gif
+File Name: D:\Webcopy Prj\demo.testfire.net\images\adobe.gif
+Content Type: image/gif
+
+Uri: https://demo.testfire.net/images/altoro.gif
+File Name: D:\Webcopy Prj\demo.testfire.net\images\altoro.gif
+Content Type: image/gif
+
+Uri: https://demo.testfire.net/images/b_cards.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\b_cards.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/b_deposit.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\b_deposit.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/b_insurance.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\b_insurance.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/b_lending.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\b_lending.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/b_main.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\b_main.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/b_other.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\b_other.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/b_retirement.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\b_retirement.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/gradient.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\gradient.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/header_pic.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\header_pic.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/home1.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\home1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/home2.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\home2.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/home3.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\home3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/inside1.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\inside1.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/inside3.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\inside3.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/inside4.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\inside4.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/inside5.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\inside5.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/inside6.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\inside6.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/inside7.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\inside7.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/logo.gif
+File Name: D:\Webcopy Prj\demo.testfire.net\images\logo.gif
+Content Type: image/gif
+
+Uri: https://demo.testfire.net/images/pf_lock.gif
+File Name: D:\Webcopy Prj\demo.testfire.net\images\pf_lock.gif
+Content Type: image/gif
+
+Uri: https://demo.testfire.net/images/p_cards.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\p_cards.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/p_checking.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\p_checking.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/p_deposit.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\p_deposit.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/p_investments.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\p_investments.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/p_loans.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\p_loans.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/p_main.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\p_main.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/p_other.jpg
+File Name: D:\Webcopy Prj\demo.testfire.net\images\p_other.jpg
+Content Type: image/jpeg
+
+Uri: https://demo.testfire.net/images/spacer.gif
+File Name: D:\Webcopy Prj\demo.testfire.net\images\spacer.gif
+Content Type: image/gif
+
+Uri: https://demo.testfire.net/index.jsp
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=business.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-3.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=business_cards.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-13.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=business_deposit.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-11.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=business_insurance.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-14.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=business_lending.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-12.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=business_other.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-16.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=business_retirement.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-15.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-4.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_about.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-17.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_benefits.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-35.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_careers.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-20.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_community.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-24.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_contact.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-1.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_executives.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-25.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_internships.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-36.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_investor.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-18.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_jobs.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-34.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_jobs.htm&job=CustomerServiceRepresentative:CustomerService
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-41.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_jobs.htm&job=ExecutiveAssistant:Administration
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-39.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_jobs.htm&job=LoyaltyMarketingProgramManager:Marketing
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-42.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_jobs.htm&job=MortgageLendingAccountExecutive:Sales
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-44.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_jobs.htm&job=OperationalRiskManager:RiskManagement
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-43.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_jobs.htm&job=Teller:ConsumaerBanking
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-40.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_press.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-19.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_trainee.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-37.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=inside_volunteering.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-38.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=personal.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-2.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=personal_cards.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-8.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=personal_checking.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-6.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=personal_deposit.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-5.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=personal_investments.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-9.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=personal_loans.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-7.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=personal_other.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-10.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=personal_savings.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-21.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=pr/20060413.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-33.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=pr/20060518.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-32.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=pr/20060720.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-31.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=pr/20060817.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-30.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=pr/20060921.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-29.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=pr/20060928.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-28.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=pr/20061005.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-27.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=pr/20061109.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-26.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=privacy.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-22.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/index.jsp?content=security.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\index.jsp-23.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/login.jsp
+File Name: D:\Webcopy Prj\demo.testfire.net\login.jsp.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/pr/communityannualreport.pdf
+File Name: D:\Webcopy Prj\demo.testfire.net\pr\communityannualreport.pdf
+Content Type: application/pdf
+
+Uri: https://demo.testfire.net/retirement.htm
+File Name: D:\Webcopy Prj\demo.testfire.net\retirement.htm
+Content Type: text/html
+
+Uri: https://demo.testfire.net/status_check.jsp
+File Name: D:\Webcopy Prj\demo.testfire.net\status_check.jsp.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/style.css
+File Name: D:\Webcopy Prj\demo.testfire.net\style.css
+Content Type: text/css
+
+Uri: https://demo.testfire.net/subscribe.jsp
+File Name: D:\Webcopy Prj\demo.testfire.net\subscribe.jsp.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/subscribe.swf
+File Name: D:\Webcopy Prj\demo.testfire.net\subscribe.swf
+Content Type: application/x-shockwave-flash
+
+Uri: https://demo.testfire.net/survey_questions.jsp
+File Name: D:\Webcopy Prj\demo.testfire.net\survey_questions.jsp.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/survey_questions.jsp?step=a
+File Name: D:\Webcopy Prj\demo.testfire.net\survey_questions.jsp-1.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/swagger/favicon-16x16.png
+File Name: D:\Webcopy Prj\demo.testfire.net\swagger\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://demo.testfire.net/swagger/favicon-32x32.png
+File Name: D:\Webcopy Prj\demo.testfire.net\swagger\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://demo.testfire.net/swagger/index.html
+File Name: D:\Webcopy Prj\demo.testfire.net\swagger\index.html
+Content Type: text/html
+
+Uri: https://demo.testfire.net/swagger/swagger-ui-bundle.js
+File Name: D:\Webcopy Prj\demo.testfire.net\swagger\swagger-ui-bundle.js
+Content Type: application/javascript
+
+Uri: https://demo.testfire.net/swagger/swagger-ui-standalone-preset.js
+File Name: D:\Webcopy Prj\demo.testfire.net\swagger\swagger-ui-standalone-preset.js
+Content Type: application/javascript
+
+Uri: https://demo.testfire.net/swagger/swagger-ui.css
+File Name: D:\Webcopy Prj\demo.testfire.net\swagger\swagger-ui.css
+Content Type: text/css
+
